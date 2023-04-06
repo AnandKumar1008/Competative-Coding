@@ -1,0 +1,1 @@
+{"name":"Local: B","url":"d:\\CodeForces Contest\\B. Long Legs.cpp","tests":[{"id":1680794062853,"input":"3\n1 1\n1 6\n8 4","output":"2\n5\n6"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\CodeForces Contest\\B. Long Legs.cpp","group":"local","local":true}
